@@ -2,6 +2,7 @@
 layout: home
 title: Home
 
+
 hero:
   name: KernelSU
   text: A kernel-based root solution for Android
